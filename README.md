@@ -1,82 +1,92 @@
-# 👋 Hola, soy Gonzalo Cabrera Bou
+# 👋 Hi, I'm Gonzalo Cabrera Bou
 
-## 🌐 Arquitecto de Soluciones Cloud | 🛠️ Especialista en CI/CD | 🚀 Infraestructura de Alta Disponibilidad
+## 🌐 Cloud Solutions Architect | 🛠️ CI/CD Specialist | ⚙️ High Availability Infrastructure
 
-Soy analista programador y líder técnico con más de 15 años de experiencia en diseño, desarrollo e implementación de soluciones críticas. Actualmente lidero equipos y arquitecturas en la nube para sistemas de transporte y retail, con foco en **AWS**, **GCP**, **Terraform**, **Kubernetes** y **DevOps**.
+I'm a software engineer and technical lead with 15+ years of experience in designing, deploying, and managing mission-critical systems. I lead infrastructure and DevOps initiatives focused on **AWS**, **GCP**, **Terraform**, **Kubernetes**, and **CI/CD automation**.
 
-🔹 Me apasiona construir infraestructuras resilientes, automatizar despliegues y garantizar disponibilidad 24/7.  
-🔹 Trabajo integrando APIs en tiempo real, orquestando contenedores y asegurando cumplimiento de SLAs.  
-🔹 He implementado sistemas que gestionan millones de transacciones en entornos productivos.
+🔹 I build resilient, scalable cloud environments and 24/7 high-availability systems.  
+🔹 I design real-time API integrations and orchestrate containerized apps in production.  
+🔹 I specialize in minimizing downtime and maximizing performance across hybrid and cloud-native solutions.
 
 ---
 
 ## 🧰 Tech Stack
 
-**☁️ Cloud & Infraestructura:**  
-AWS | GCP | Azure | Terraform | CloudFormation | VMware
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**🧪 CI/CD & DevOps:**  
-GitHub Actions | GitLab CI | Jenkins | ArgoCD | Helm | Git
+### 🔧 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**🐳 Contenedores y Orquestación:**  
-Docker | Kubernetes | Amazon ECS/EKS | WSO2 API Manager
+### 🚀 CI/CD & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**🗄️ Bases de Datos:**  
-PostgreSQL | MySQL | MSSQL | Oracle | DynamoDB | MongoDB
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![WSO2](https://img.shields.io/badge/WSO2-F26722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjI2NzIyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=)
 
-**🛡️ Seguridad & Redes:**  
-IAM | KMS | VPC | Route 53 | VPN | Firewalls | API Gateway
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**💻 Lenguajes & Dev:**  
-Node.js | JavaScript | PHP | PL/SQL | Bash | Linux | Windows
+### 🔐 Security & Networking
+![IAM](https://img.shields.io/badge/IAM-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API--Gateway-AWS-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 💻 Languages & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🏗️ Proyectos Destacados
+## 📂 Featured Projects
 
 ### `terraform-aws-high-availability`
-> Infraestructura multi-AZ en AWS con Terraform, RDS, ALB, Auto Scaling y backup automático.  
-> [🔗 Ver repositorio](https://github.com/tuusuario/terraform-aws-high-availability)
+> Complete AWS architecture with Multi-AZ RDS, ALB, Auto Scaling, and S3 backups.
 
 ### `ci-cd-k8s-deploy-pipeline`
-> Pipeline CI/CD con GitHub Actions para desplegar microservicios en Kubernetes vía Helm Charts.
+> Full CI/CD pipeline for Kubernetes deployments using GitHub Actions + Helm + ArgoCD.
 
-### `gcp-serverless-auth-api`
-> API sin servidor en Google Cloud Functions protegida con OAuth2 y Cloud Endpoints.
+### `cloud-resume-project`
+> Personal resume deployed on AWS S3 + CloudFront + Route53 using Terraform.
 
-### `aws-ecommerce-architecture`
-> Infraestructura escalable para ecommerce: ALB, ECS Fargate, RDS Aurora, S3, CloudFront y Cognito.
-
----
-
-## 📊 Métricas y Logs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula)
-![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dracula)
+### `aws-cognito-secured-api`
+> Secure API with Cognito, API Gateway, Lambda, and JWT authorization.
 
 ---
 
-## 🎓 Certificaciones
+## 🏅 Certifications
 
-- 🏅 AWS Certified Solutions Architect – Associate (2025)
-- 🧩 VMware vSphere: Install, Configure, Manage [v6.5]
-
----
-
-## 🧠 Sobre mí
-
-📍 Actualmente en **Sorocaba, São Paulo, Brasil**  
-🧑‍💻 CTO en Moovia SPA  
-🌎 Experiencia en proyectos críticos de transporte y retail en Chile y Brasil  
-📚 Educado como Analista Programador en Duoc UC  
+- ✅ **AWS Certified Solutions Architect – Associate** (Valid until 2025)  
+- ✅ **VMware vSphere: Install, Configure, Manage [v6.5]**
 
 ---
 
-## 📫 Contacto
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gcb662)
+![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gcb662)
 - 📧 gcabrera@binarios.cl
+- 🗺️ Sorocaba, São Paulo, Brazil
 
 ---
 
-⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar en proyectos de infraestructura, CI/CD o migraciones cloud, ¡contáctame!
+⭐ **Thanks for visiting!** I'm open to collaborations in DevOps, cloud architecture, and resilient infrastructure engineering.
