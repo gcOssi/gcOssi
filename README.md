@@ -1,4 +1,23 @@
-# 👋 Hi, I'm Goz Cab
+# 👋 Hi, I'm Gonzalo
+
+<p align="center">
+  🔧 Cloud Architect · ☁️ DevOps · 🛠️ CI/CD · ⚙️ Automation · 💡 High Availability Infrastructure
+</p>
+
+---
+
+## 🧠 About Me
+
+- 👨‍💻 IT Consultant focused on **Cloud Architecture**, **Integrations**, **DevOps**, and **Infrastructure as Code**
+- 🧰 Passionate about **automation**, **resilience**, and **scalable architectures**
+- ☁️ Working with **AWS**, **Terraform**, **Docker**, **Kubernetes**, **GitHub Actions**
+- 🧪 Experience with **Node.js**, **Python**, **FastAPI**, **Java Spring**, and more
+- 🧩 Love solving problems and designing clean, maintainable systems
+
+---
+
+## 🚀 Tech Stack
+
 
 ## 🌐 Cloud Solutions Architect | 🛠️ CI/CD Specialist | ⚙️ High Availability Infrastructure
 
