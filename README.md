@@ -76,8 +76,8 @@ I'm a software engineer and technical lead with 15+ years of experience in desig
 
 ## 📊 GitHub Stats
 
-![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+(![gcOssi's Stats](https://github-readme-stats.vercel.app/api?username=gcOssi&theme=blueberry&show_icons=true&hide_border=true&count_private=true))
+![gcOssi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gcOssi&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
