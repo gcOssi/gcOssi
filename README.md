@@ -8,24 +8,13 @@
 
 ## 🧠 About Me
 
+I'm a software engineer and technical lead with 15+ years of experience in designing, deploying, and managing mission-critical systems. I lead infrastructure and DevOps initiatives focused on **AWS**, **GCP**, **Terraform**, **Kubernetes**, and **CI/CD automation**.
+
 - 👨‍💻 IT Consultant focused on **Cloud Architecture**, **Integrations**, **DevOps**, and **Infrastructure as Code**
 - 🧰 Passionate about **automation**, **resilience**, and **scalable architectures**
 - ☁️ Working with **AWS**, **Terraform**, **Docker**, **Kubernetes**, **GitHub Actions**
 - 🧪 Experience with **Node.js**, **Python**, **FastAPI**, **Java Spring**, and more
 - 🧩 Love solving problems and designing clean, maintainable systems
-
----
-
-## 🚀 Tech Stack
-
-
-## 🌐 Cloud Solutions Architect | 🛠️ CI/CD Specialist | ⚙️ High Availability Infrastructure
-
-I'm a software engineer and technical lead with 15+ years of experience in designing, deploying, and managing mission-critical systems. I lead infrastructure and DevOps initiatives focused on **AWS**, **GCP**, **Terraform**, **Kubernetes**, and **CI/CD automation**.
-
-🔹 I build resilient, scalable cloud environments and 24/7 high-availability systems.  
-🔹 I design real-time API integrations and orchestrate containerized apps in production.  
-🔹 I specialize in minimizing downtime and maximizing performance across hybrid and cloud-native solutions.
 
 ---
 
