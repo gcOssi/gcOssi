@@ -59,22 +59,6 @@ I'm a software engineer and technical lead with 15+ years of experience in desig
 
 ---
 
-## 📂 Featured Projects
-
-### `terraform-aws-high-availability`
-> Complete AWS architecture with Multi-AZ RDS, ALB, Auto Scaling, and S3 backups.
-
-### `ci-cd-k8s-deploy-pipeline`
-> Full CI/CD pipeline for Kubernetes deployments using GitHub Actions + Helm + ArgoCD.
-
-### `cloud-resume-project`
-> Personal resume deployed on AWS S3 + CloudFront + Route53 using Terraform.
-
-### `aws-cognito-secured-api`
-> Secure API with Cognito, API Gateway, Lambda, and JWT authorization.
-
----
-
 ## 🏅 Certifications
 
 - ✅ **AWS Certified Solutions Architect – Associate** (Valid until 2025)  
